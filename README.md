@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Beat Maker
+
+**Embryo Beat Maker** is Embryo-Zero's fork of [lmms](https://github.com/LMMS/lmms), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
 	<h1>
 	<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" alt="LMMS Logo"><br>LMMS
